@@ -42,8 +42,17 @@ The stacked LSTM layers help capture sequential dependencies and contextual rela
 
 ---
 
+
 ## 📊 Dataset
 - TMDB 5000 Movie Titles Dataset
 - Used the `original_title` column for training
+
+
+## Output Screenshots
+
+<img width="850" height="514" alt="image" src="https://github.com/user-attachments/assets/6f2e32ad-013e-4772-869b-91c6d7c62e4b" />
+<img width="773" height="681" alt="image" src="https://github.com/user-attachments/assets/4097f945-df7a-4439-be7c-a77b7c0a6905" />
+<img width="681" height="266" alt="image" src="https://github.com/user-attachments/assets/2b04fb59-ddbf-4d1d-95fe-245e8733c021" />
+
 
 ---
